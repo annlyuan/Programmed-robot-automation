@@ -2,11 +2,11 @@
 Led an AD project with >1,500 plasma /serum/CSF samples; Programmed robot-automated library construction, optimized low-input sequencing protocols, and developed the analysis pipeline with 7 machine learning (ML) models to identify hub regions and assess low-input quantification feasibility.
 
 <p align="center">
-  <img src="docs/EpMotion.png" width="800" alt="EpMotion Liquid Handling Robot">
+  <img src="EpMotion.png" width="800" alt="EpMotion Liquid Handling Robot">
 </p>
 
 <p align="center">
-  <img src="docs/65ec49f973c0a8c4-video.gif" width="800" alt="Automated Library Construction in Action">
+  <img src="65ec49f973c0a8c4-video.gif" width="800" alt="Automated Library Construction in Action">
 </p>
 
 🤖 Robotic Automation & Quality Control (EpMotion)
